@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="word\" />
+    <Folder Include="通用文档\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
